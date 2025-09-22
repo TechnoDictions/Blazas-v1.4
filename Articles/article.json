@@ -1,0 +1,85 @@
+[
+  {
+    "Article": 1,
+    "title": "Antarctica",
+    "date": "September 22, 2025",
+    "author": "Source : Wikipedia",
+    "duration": "5 min read",
+    "mainImage": "Articles/images/article1/main.webp",
+    "content": [
+      { "type": "heading", "text": "• Antarctica" },
+      { "type": "paragraph", "text": " Antarctica is Earth's southernmost and least-populated continent. Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean (also known as the Antarctic Ocean), it contains the geographic South Pole. Antarctica is the fifth-largest continent, being about 40% larger than Europe, and has an area of 14,200,000 km2 (5,500,000 sq mi). Most of Antarctica is covered by the Antarctic ice sheet, with an average thickness of 1.9 km (1.2 mi)." },
+      { "type": "heading", "text": "• Geography" },
+      {
+        "type": "s-image",
+        "detail":"Positioned asymmetrically around the South Pole and largely south of the Antarctic Circle (one of the five major circles of latitude that mark maps of the world), Antarctica is surrounded by the Southern Ocean.[note 2] Rivers exist in Antarctica; the longest is the Onyx. Antarctica covers more than 14.2 million km2 (5,500,000 sq mi), almost double the area of Australia, making it the fifth-largest continent, and comparable to the surface area of Pluto. Its coastline is almost 18,000 km (11,200 mi) long:[1] as of 1983, of the four coastal types, 44% of the coast is floating ice in the form of an ice shelf, 38% consists of ice walls that rest on rock, 13% is ice streams or the edge of glaciers, and the remaining 5% is exposed rock.[15] The lakes that lie at the base of the continental ice sheet occur mainly in the McMurdo Dry Valleys or various oases.[16] Lake Vostok, discovered beneath Russia's Vostok Station, is the largest subglacial lake globally and one of the largest lakes in the world. It was once believed that the lake had been sealed off for millions of years, but scientists now estimate its water is replaced by the slow melting and freezing of ice caps every 13,000 years.[17] During the summer, the ice at the edges of the lakes can melt, and liquid moats temporarily form. Antarctica has both saline and freshwater lakes.[16]Antarctica is divided into West Antarctica and East Antarctica by the Transantarctic Mountains, which stretch from Victoria Land to the Ross Sea.[18][19] The vast majority of Antarctica is covered by the Antarctic ice sheet, which averages 1.9 km (1.2 mi) in thickness.[20] The ice sheet extends to all but a few oases, which, with the exception of the McMurdo Dry Valleys, are located in coastal areas.[21] Several Antarctic ice streams flow to one of the many Antarctic ice shelves, a process described by ice-sheet dynamics.[22]",
+        "url": "Articles/images/article1/img1.png",
+        "caption": "Galaxy in deep space"
+      },
+       {
+        "type": "image",
+        "url": "Articles/images/article1/img2.jpg",
+        "caption": "Galaxy in deep space"
+      },
+      {
+        "type": "pullquote",
+        "text": "Space exploration is humanity's greatest adventure."
+      }
+    ],
+    "category": "Science"
+  },
+  {
+    "Article": 2,
+    "title": "Exploring the Universe",
+    "date": "September 1, 2025",
+    "author": "John Smith",
+    "duration": "5 min read",
+    "mainImage": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "content": [
+      { "type": "paragraph", "text": "Humanity has always looked up at the stars in wonder." },
+      { "type": "paragraph", "text": "Modern telescopes reveal secrets of distant galaxies." },
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "caption": "Galaxy in deep space"
+      },
+      {
+        "type": "pullquote",
+        "text": "Space exploration is humanity's greatest adventure."
+      }
+    ],
+    "category": "Science"
+  },
+  {
+    "Article": 3,
+    "title": "How AI is Revolutionizing Healthcare Diagnostics",
+    "date": "October 12, 2023",
+    "author": "Sarah Williams",
+    "duration": "6 min read",
+    "mainImage": "Articles/images/article1/main.jpg",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Artificial intelligence is transforming healthcare diagnostics at an unprecedented pace. Machine learning algorithms can now analyze medical images with accuracy that often surpasses human experts."
+      },
+      {
+        "type": "paragraph",
+        "text": "Recent advancements in deep learning have enabled AI systems to detect early signs of diseases such as cancer, diabetes, and heart conditions long before symptoms manifest."
+      },
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "caption": "AI analyzing medical imaging data"
+      },
+      {
+        "type": "pullquote",
+        "text": "AI diagnostics could reduce medical error rates by up to 85% according to recent studies from Johns Hopkins University."
+      },
+      {
+        "type": "paragraph",
+        "text": "The integration of AI in healthcare doesn't stop at diagnostics. Predictive analytics are being used to identify at-risk populations, personalize treatment plans, and optimize hospital operations."
+      }
+    ],
+    "category": "Technology"
+  }
+]
